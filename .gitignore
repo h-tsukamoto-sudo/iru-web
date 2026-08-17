@@ -1,0 +1,17 @@
+# macOS / temporary files
+.DS_Store
+tmp/
+
+# Exported images and archive backups (source assets under assets/ are tracked separately)
+/*.png
+*.zip
+
+# Previous design explorations and packaged deliverables
+提出用_イル不動産Webデザイン案*/
+イル不動産_Webデザイン案_20260807/
+パターンB展開/
+パターンC/
+公開用サイト/
+index-new-direction-backup.html
+イル不動産_統合版.html
+concerns-layout-preview.html
